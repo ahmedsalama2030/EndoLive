@@ -21,7 +21,7 @@
 ------------
 
 
-![N|Solid](https://res.cloudinary.com/dxb44v7tw/image/upload/v1624830694/endo/endov1-2_wfz1ut.jpg)
+![N|Solid](https://res.cloudinary.com/dxb44v7tw/image/upload/v1624835147/endo/endov1-2_my09a9.jpg)
 
 ------------
  
