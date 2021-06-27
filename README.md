@@ -33,7 +33,7 @@
       
 >  1- **About Project**
   
-     This is project(v1) production for galaa hosppital Endoscopy department (10/2020)  .
+     This is project(v1) production for galaa hosppital Endoscopy department (9/2020)  .
 	 The garages were connected using nanostation wireless.
 	 
  
